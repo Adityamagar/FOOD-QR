@@ -10,7 +10,7 @@
 1. Clone the repo
 
 ```
-https://github.com/Mayur2506/Smart-Menu-Card.git
+https://github.com/Adityamagar/FOOD-QR.git
 ```
 2. Move Into Working Directory
 ```
@@ -31,7 +31,7 @@ node server/index.js
 ```
 cd client
 ```
-5. Run The Project using 
+5. Run The Project using
 
 ```
 npm install
@@ -52,4 +52,3 @@ npm start
    - MongoDB
 4. Package Used:
    - QRCode.react
-
